@@ -1,6 +1,6 @@
 {
 	"name": "@harsh-js/express-ts-app",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "A one stop solution for all your needs",
 	"bin": "./bin/cli.js",
 	"main": "index.js",
