@@ -1,7 +1,8 @@
 {
-	"name": "usinuer_backend",
+	"name": "@harsh-js/express-ts-app",
 	"version": "1.0.0",
-	"description": "",
+	"description": "A one stop solution for all your needs",
+	"bin": "./bin/cli.js",
 	"main": "index.js",
 	"nodemonConfig": {
 		"ignore": [
