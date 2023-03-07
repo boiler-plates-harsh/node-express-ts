@@ -1,4 +1,4 @@
-#!/user/bin/env node
+#!/user/bin/node
 
 const { execSync } = require('child_process')
 
